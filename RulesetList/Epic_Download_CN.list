@@ -1,3 +1,1 @@
-regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @cn
-regexp:^epicgames-download\d\.akamaized\.net$
-regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$ @cn
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
