@@ -23,4 +23,4 @@ DOMAIN-SUFFIX,tools.l.google.com
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,www.gstatic.com
-DOMAIN-SUFFIX,translate.google.cn
+#DOMAIN-SUFFIX,translate.google.cn
