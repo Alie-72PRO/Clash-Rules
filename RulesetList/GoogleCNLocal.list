@@ -42,4 +42,4 @@ DOMAIN-SUFFIX,settings.crashlytics.com
 #该规则移至GoogleCNPlus(增强谷歌规则)DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 #该规则移至GoogleCNPlus(增强谷歌规则)DOMAIN-SUFFIX,www.gstatic.com
 #新增
-#该规则移至GoogleCNPlus(增强谷歌规则)DOMAIN-SUFFIX,translate.google.cn
+DOMAIN-SUFFIX,translate.google.cn
