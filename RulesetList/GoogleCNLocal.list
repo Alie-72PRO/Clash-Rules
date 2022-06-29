@@ -2,7 +2,7 @@
 #直连Google规则
 #原地址https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 #新规则注释了一些Ping不通的域名
-#DOMAIN-SUFFIX,translate.googleapis.com
+#该规则移至GoogleCNPlus(增强谷歌规则)DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,alt1-mtalk.google.com
