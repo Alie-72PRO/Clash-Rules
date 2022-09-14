@@ -1,0 +1,5 @@
+# 内容：SteamFriend
+# 数量：2条
+# SteamFriend好友域名,用于好友列表、聊天和游戏邀请等方面
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,community.akamai.steamstatic.com
